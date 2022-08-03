@@ -1,0 +1,1 @@
+employee_id, employee_first_name, employee_last_name, clocked_in, customer_id, customer_first_name, customer_last, ticket_id, ticket_createdAt, workorder_createdAt
