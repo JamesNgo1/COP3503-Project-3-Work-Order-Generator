@@ -36,7 +36,7 @@ public class Project3 {
 		
 		int equalTo = 0;
 		int j = 0;
-		for(int i = 0; i < ticketlist.size();i++)
+		for(int i = 0; i < ticketList.size();i++)
 		{
 			WorkOrder workorder = new WorkOrder(employeeList.get(j), ticketList.get(i), new Date().toString());
 			workOrderList.add(workorder);
